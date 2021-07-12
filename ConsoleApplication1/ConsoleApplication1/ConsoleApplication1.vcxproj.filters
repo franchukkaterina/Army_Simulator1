@@ -23,5 +23,14 @@
     <ClInclude Include="C_Weapon.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="C_Pole.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C_Rifle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C_Manual.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -142,6 +142,9 @@
     <ClCompile Include="ConsoleApplication1.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="C_Manual.h" />
+    <ClInclude Include="C_Pole.h" />
+    <ClInclude Include="C_Rifle.h" />
     <ClInclude Include="C_Weapon.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
