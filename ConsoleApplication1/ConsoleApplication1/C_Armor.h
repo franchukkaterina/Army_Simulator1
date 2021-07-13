@@ -15,6 +15,6 @@ public:
 		}
 	}
 	
-
+	virtual void getHP() = 0;
 };
 

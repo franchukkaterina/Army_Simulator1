@@ -27,6 +27,12 @@
     <ClCompile Include="C_Hard.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="C_Leather.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C_Mail.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="C_Armor.h">
@@ -36,6 +42,12 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="C_Hard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C_Leather.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C_Mail.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

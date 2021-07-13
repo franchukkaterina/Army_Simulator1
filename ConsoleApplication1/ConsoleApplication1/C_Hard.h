@@ -5,7 +5,7 @@ class C_Hard :
     public C_Armor
 {
 protected:
-    virtual void breakArmor(){
+    virtual void breakArmor()override{
         delete this;
     }
 public:

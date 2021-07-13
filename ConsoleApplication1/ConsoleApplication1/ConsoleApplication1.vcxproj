@@ -142,12 +142,16 @@
     <ClCompile Include="ConsoleApplication1.cpp" />
     <ClCompile Include="C_Armor.cpp" />
     <ClCompile Include="C_Hard.cpp" />
+    <ClCompile Include="C_Leather.cpp" />
     <ClCompile Include="C_Light.cpp" />
+    <ClCompile Include="C_Mail.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="C_Armor.h" />
     <ClInclude Include="C_Hard.h" />
+    <ClInclude Include="C_Leather.h" />
     <ClInclude Include="C_Light.h" />
+    <ClInclude Include="C_Mail.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
