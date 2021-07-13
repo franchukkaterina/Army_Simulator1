@@ -21,9 +21,21 @@
     <ClCompile Include="C_Armor.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="C_Light.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C_Hard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="C_Armor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C_Light.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C_Hard.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
