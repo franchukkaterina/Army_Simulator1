@@ -21,10 +21,7 @@
     <ClCompile Include="C_Shield.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C_Usual.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="C_Stationary.cpp">
+    <ClCompile Include="C_Small.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -32,10 +29,7 @@
     <ClInclude Include="C_Shield.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C_Usual.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="C_Stationary.h">
+    <ClInclude Include="C_Small.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
