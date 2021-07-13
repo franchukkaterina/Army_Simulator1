@@ -21,9 +21,15 @@
     <ClCompile Include="C_Shield.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="C_Small.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="C_Shield.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C_Small.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

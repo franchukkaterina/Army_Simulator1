@@ -141,9 +141,11 @@
   <ItemGroup>
     <ClCompile Include="ConsoleApplication1.cpp" />
     <ClCompile Include="C_Shield.cpp" />
+    <ClCompile Include="C_Small.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="C_Shield.h" />
+    <ClInclude Include="C_Small.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
