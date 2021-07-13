@@ -9,9 +9,12 @@ protected:
         delete this;
     }
 public:
-    
+    void TakeHit(int impact_power) {
+        C_Armor::TakeHit(impact_power);
+    }
     virtual void getHP()override{
         std::cout << "You are wearing light armor";
     }
+
 };
 
